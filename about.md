@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
 
-Some information about you!
+# 全君林的技术博客
 
-### More Information
+分享 android 移植、裁剪、定制、优化，CTS、GTS , 安卓 AI 相关技术经验
 
-A place to include any other types of information that you'd like to include about yourself.
+### 
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[junlin.quan@qq.com](mailto:junlin.quan@qq.com)
